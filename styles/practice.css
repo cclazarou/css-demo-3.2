@@ -1,0 +1,20 @@
+section#contact-info{
+	font-size: .8em;
+}
+section.job{
+	background-color: #e9e5dc;
+	border-radius: 25px;
+	padding: 15px;
+	margin-top: 15px;
+
+}
+ul.responsibilities{
+	font-size: .8em;
+}
+.responsibilities li:nth-child(1){
+	color: red;
+}
+section > h3{
+	color: blue;
+
+}
